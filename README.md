@@ -38,4 +38,4 @@ Building resilient backend architectures, automated data pipelines, and real-tim
 ---
 
 📫 **Connect with Me:**  
-[LinkedIn](https://linkedin.com) • [Email](mailto:your-email@example.com)
+[LinkedIn](https://www.linkedin.com/in/kiruthiganthangaraj02082121/) • [Email](mailto:kiruthigantlinkdin@gmail.com)
