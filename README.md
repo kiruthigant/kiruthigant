@@ -22,6 +22,10 @@ Building resilient backend architectures, automated data pipelines, and real-tim
 - **Core Capability:** Production API service orchestrating LLM tool calling, schema-enforced validation, and automated latency monitoring.
 - the demo output image --> https://github.com/kiruthigant/AI-Assisted-FastAPI-Service/blob/98da70555f747ce8e711cd1c9d868514fae27277/input%20and%20output.png
 
+#### 4. [Automated CV & Resume Analyzer with LLM Evaluation](https://github.com/kiruthigant/CvAnalayzer)
+- **Stack:** Python, PyPDF2/pdfplumber, LLM APIs (Gemini/OpenAI/Grog), Pydantic
+- **Core Capability:** Automated resume parsing engine that extracts structured candidate data, evaluates profile match against target job descriptions, and returns standardized scoring metrics.and for now its finding jobs with topjobs.lk
+- the demo out put of the analyze  --> https://github.com/kiruthigant/CvAnalayzer/blob/f9d0a102669cdd048be8dbef15b00101f7123254/democv.pdf
 ---
 
 ### 🛠️ Technical Toolkit
