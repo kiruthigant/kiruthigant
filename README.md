@@ -7,7 +7,7 @@ Building resilient backend architectures, automated data pipelines, and real-tim
 
 ### 🚀 Featured Engineering Projects
 
-#### 1. [Real-Time Computer Vision & Object Tracking Pipeline](https://github.com/kiruthigant/roboflow)
+#### 1. [Real-Time Computer Vision & Object Tracking Pipeline](https://github.com/kiruthigant/roboflowtrack)
 - **Stack:** Python, OpenCV, Roboflow, YOLOv8
 - **Core Capability:** Real-time object detection with bi-directional virtual line crossing and automated analytics tracking.
 - 
